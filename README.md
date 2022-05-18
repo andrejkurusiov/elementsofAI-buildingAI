@@ -20,10 +20,43 @@
 									</g>
 </svg>
 
-Topics
+1. [Solutions for BuildingAI problems](#buildingai-solutions)
+2. [Building AI course project proposal](#building-ai-course-project-proposal-call-your-mom)
+---
 
-- [Building AI course project proposal](#building-ai-course-project-proposal-call-your-mom)
-- [Solutions for BuildingAI problems](#buildingai-solutions)
+# BuildingAI: Solutions
+
+*solutions to programming problems and quizzes*
+![my-results](./elementsofai-buildingai_results.png)
+
+## Features
+
+[![python-notebook-screenshot](./project-screenshot.png)](./building-ai.ipynb)
+
+- All solutions are present and commented in a single [Jupyter Notebook][jupyter-url] file: [`building-ai.ipynb`](./building-ai.ipynb)
+- Import a [Jupyter Notebook][jupyter-url] file to local environment or [Google Colab][google-colab-url]
+- Run documented cells one by one, see output and read comments
+
+## Installation
+
+1. Clone this repository:
+```
+$ git clone https://github.com/andrejkurusiov/elementsofAI-buildingAI.git [your-folder-name]
+```
+2. *(optional)*\* Install [Python](https://www.python.org/downloads/)
+3. *(optional)*\* Install packages with `pip`:
+```zsh
+$ pip install -r requirements.txt
+```
+4. Open `building-ai.ipynb` and run cells.
+
+(\*) *instead of installing Python locally, you can use online service, such as [Google Colab][google-colab-url].*
+
+## License
+
+Distributed under the [MIT License](./LICENSE).
+
+---
 
 # [Building AI course][buildingai-url] project proposal: call-your-mom
 
@@ -88,39 +121,6 @@ Next steps would be making data collection easy for user and potentially impleme
 - The materials from the [course BuildingAI][buildingai-url] are used to the extent to illustrate main tasks of the solutions
 - My results are presented in the graphic format from [BuildingAI course web-site][buildingai-url]
 
----
-
-# BuildingAI - Solutions
-
-*solutions to programming problems and quizzes*
-![my-results](./elementsofai-buildingai_results.png)
-
-## Features
-
-[![python-notebook-screenshot](./project-screenshot.png)](./building-ai.ipynb)
-
-- All solutions are present and commented in a single [Jupyter Notebook][jupyter-url] file: [`building-ai.ipynb`](./building-ai.ipynb)
-- Import a [Jupyter Notebook][jupyter-url] file to local environment or [Google Colab][google-colab-url]
-- Run documented cells one by one, see output and read comments
-
-## Installation
-
-1. Clone this repository:
-```
-$ git clone https://github.com/andrejkurusiov/elementsofAI-buildingAI.git [your-folder-name]
-```
-2. *(optional)*\* Install [Python](https://www.python.org/downloads/)
-3. *(optional)*\* Install packages with `pip`:
-```zsh
-$ pip install -r requirements.txt
-```
-4. Open `building-ai.ipynb` and run cells.
-
-(\*) *instead of installing Python locally, you can use online service, such as [Google Colab][google-colab-url].*
-
-## License
-
-Distributed under the [MIT License](./LICENSE).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
